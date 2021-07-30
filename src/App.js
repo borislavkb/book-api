@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <header>
-        <h1> Book API</h1>
+        <h1>Books API</h1>
       </header>
       <main></main>
     </div>
